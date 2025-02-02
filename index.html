@@ -1,14 +1,16 @@
-<!DOCTYPE html> 
-<html> 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sofia Website</title>
+</head>
+<body>
+    <h1>Hello, World! I'm Sofia</h1>
+    <button onclick="changeText()">Click Me</button>
 
-<head> 
-	<title>Sofia Website</title> 
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-</head> 
-	
-<body> 
-	<h1>Sofia Lima</h1> 
-</body> 
-
-</html>				 
+    <script>
+        function changeText() {
+            document.querySelector("h1").textContent = "I am 50% tator tot";
+        }
+    </script>
+</body>
+</html>
