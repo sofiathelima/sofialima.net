@@ -4,4 +4,4 @@ Cloudflare is my DNS service provider, and I use their Free Tier Pages service t
 
 My first website used the Free Tier Github Pages which deployed this markdown file.
 
-See live (sofialima.net)[sofialima.net]
+See live [sofialima.net](sofialima.net)
